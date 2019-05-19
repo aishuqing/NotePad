@@ -6,7 +6,12 @@
   ![图片alt](https://github.com/aishuqing/NotePad/blob/master/app/search1.PNG)
   ![图片alt](https://github.com/aishuqing/NotePad/blob/master/app/search2.PNG)
 ## 拓展功能解析
-### （1）更改背景
+### 更改背景
+ #### （1）原本图片
  ![图片alt](https://github.com/aishuqing/NotePad/blob/master/app/更改记事本的背景1.PNG) 
+ 
+ #### （2）
  ![图片alt](https://github.com/aishuqing/NotePad/blob/master/app/更改背景2.PNG)
+ 
+ #### （3）更改后的图片背景 
  ![图片alt](https://github.com/aishuqing/NotePad/blob/master/app/背景3.PNG) 
