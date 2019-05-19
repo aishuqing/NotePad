@@ -1,15 +1,10 @@
 ﻿# 基于NotePad应用的功能扩展
-## 拓展功能
-- NotesList中显示条目增加时间显示
-- 笔记查询（按标题查询）
-- UI美化
-- 背景更换
-- 导出笔记
-- 笔记排序
-
-## 拓展应用源码
-源码： [NotePad](https://github.com/douerza/NotePad/tree/master/NotePad)
-
+ 
+ ##基本功能实现
+ ###（1）增加时间戳显示
+ 
+ 
+ 
 ## 拓展功能解析
 
 - NotesList中显示条目增加时间显示
@@ -880,5 +875,3 @@ private int[] viewIDs = { android.R.id.text1 , R.id.text1_time };
 
 - 扩展后的目录结构
 
-![dirstructure1](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/dirstructure1.png)<br>
-![dirstructure2](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/dirstructure2.png)<br>
